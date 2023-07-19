@@ -1,5 +1,7 @@
 # TPM2023
 Thin-walled parts 2023 dataset released from Shandong University.
+## Paper
+This is a dataset for our submitted paper 'Toward digital twins for high-performance manufacturing: Tool wear monitoring in high-speed milling of thin-walled parts using domain knowledge'
 ## Dataset structure
 Data of Each cutting in the dataset is stored as an independent CSV file. 
 The cutting data of the three tools are stored in folders named CuttingsignalsT01/CuttingsignalsT02/CuttingsignalsT03 respectively. 
