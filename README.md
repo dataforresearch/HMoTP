@@ -1,5 +1,5 @@
-# TPM2023
-Thin-walled parts milling dataset 2023 released by Prof. Qinghua Song's Lab from Shandong University.
+# HMoTP
+High-speed milling of thin-walled parts (HMoTP) dataset 2023 released by Prof. Qinghua Song's Lab from Shandong University.
 ## Paper
 This is a dataset for our submitted paper 'Toward digital twins for high-performance manufacturing: Tool wear monitoring in high-speed milling of thin-walled parts using domain knowledge'
 ## Dataset structure
