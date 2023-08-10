@@ -10,6 +10,6 @@ Each CSV file of cutting data contains data for 7 channels: Fx, Fy, Fz, Mz, Ax, 
 Each cutting data corresponds to a tool wear value, and the wear values of all tools are saved in files named ToolWeaT01.csv/ToolWeaT02.csv/ToolWeaT03.csv.
 # Download
 All the data can be downloaded from one of the following links 
-1. Baidu Netdisk: https://pan.baidu.com/s/1og2qLeR9aK7o6c6k_14-Nw 
-# Password
-Passwords of the links will be released after publication of the paper.  
+1. Baidu Netdisk: https://pan.baidu.com/s/1OFMmCk-3ZN3-3VRmRZN9IQ   Extraction code: qdev
+
+
