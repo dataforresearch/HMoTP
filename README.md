@@ -1,7 +1,7 @@
 # HMoTP
 High-speed milling of thin-walled parts (HMoTP) dataset 2024 released by Prof. Qinghua Song's Lab from Shandong University.
 ## Paper
-This is a dataset for our accepted paper 'Toward digital twins for high-performance manufacturing: Tool wear monitoring in high-speed milling of thin-walled parts using domain knowledge'
+This is a dataset for our accepted paper 'Toward digital twins for high-performance manufacturing: Tool wear monitoring in high-speed milling of thin-walled parts using domain knowledge'.
 If this dataset is useful for your research, please cite our paper:
 ## Dataset structure
 Data of Each cutting in the dataset is stored as an independent CSV file. 
