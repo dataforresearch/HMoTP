@@ -14,5 +14,6 @@ Each cutting data corresponds to a tool wear value, and the wear values of all t
 All the data can be downloaded from one of the following links 
 1. Baidu Netdisk: https://pan.baidu.com/s/1PFtNowJL_QUmHMtoHvRHJA Extraction code: sdum
 2. Google Drive: https://drive.google.com/drive/folders/1eBhTSXMd8jVITfQoJifC50fE_NIFqb89?usp=sharing
+3. Personal website: https://runqiong.wang/dataset/
 # Contact infor
 Please contact Runqiong Wang (wangrunqiong@163.com), the first author of the paper, if you encounter any problems in using it.
