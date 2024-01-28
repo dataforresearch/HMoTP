@@ -3,7 +3,7 @@ High-speed milling of thin-walled parts (HMoTP) dataset 2024 released by Prof. Q
 This is a dataset for high-performance machining of titanium alloy thin-walled parts containing milling force, milling bending moment, workpiece vibration, and tool wear data that can be used for tool wear monitoring and chatter detection researches.
 ## Paper
 This is a dataset for our accepted paper 'R. Wang, Q. Song, Y. Peng, et al. Toward digital twins for high-performance manufacturing: Tool wear monitoring in high-speed milling of thin-walled parts using domain knowledge, Robot Comput-Integr Manuf 2024;88:102723 https://doi.org/10.1016/j.rcim.2024.102723'.
-If this dataset is useful for your research, please cite our paper:
+If this dataset is useful for your research, please cite our paper.
 ## Dataset structure
 Data of Each cutting in the dataset is stored as an independent CSV file. 
 The cutting data of the three tools are stored in folders named CuttingsignalsT01/CuttingsignalsT02/CuttingsignalsT03 respectively. 
